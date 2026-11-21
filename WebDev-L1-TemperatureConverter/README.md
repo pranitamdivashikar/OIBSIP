@@ -1,6 +1,6 @@
 # Temperature Converter Website
 
-Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 3)**[cite: 2, 6, 46].
+Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 3)**.
 
 ## Features
 - Converts temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K)
