@@ -1,6 +1,6 @@
 # BrewCraft Roasters — Landing Page
 
-Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 1)**[cite: 2, 6, 46].
+Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 1)**.
 
 ## Features
 - Sticky navigation bar with smooth section scrolling
