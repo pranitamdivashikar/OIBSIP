@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 2)**[cite: 2, 6, 46].
+Oasis Infobyte SIP — **Web Development & Designing (Level 1 - Task 2)**.
 
 ## Features
 - Hero section with name, role, and profile badge
