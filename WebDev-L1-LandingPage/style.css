@@ -22,6 +22,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 76px;
   font-size: 16px;
 }
 
@@ -190,7 +191,7 @@ body {
 .footer {
   background-color: var(--bg-dark);
   color: var(--text-light);
-  padding: 2.25rem 0;
+  padding: 2.75rem 0;
 }
 
 .footer-content {
